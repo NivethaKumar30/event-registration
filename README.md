@@ -25,10 +25,8 @@ Validate the HTML and CSS code.
 Step 7:
 Publish the website in the given URL.
 
-## DESIGN:
-
 ## OUTPUT:
-
+![figma](https://user-images.githubusercontent.com/119559844/215324133-f74d494c-b001-4b9d-a451-061c63977678.png)
 
 ## Result:
 Thus, UX design is designed for the Event registration page using FIGMA SOFTWARE. BY GROUP 10
